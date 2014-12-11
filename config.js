@@ -50,7 +50,7 @@ define([], function () {
         VimeoVideoUrl: "https://player.vimeo.com/video/",
 
         // The URL for your ArcGIS Online Organization or Portal for ArcGIS site,
-        // e.g., something like "https://myOrg.maps.arcgis.com/" for an Online Organization
+        // e.g., something like "https://myOrg.maps.arcgis.com" for an Online Organization
         PortalURL: "",
 
         // OAuth application id; This parameter is only required for ArcGIS organizational accounts using Enterprise Logins.Leave empty if you are not using Enterprise Logins
